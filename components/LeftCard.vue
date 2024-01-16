@@ -27,6 +27,7 @@
           <DesignedIcon name="mdi:github" />
           <DesignedIcon name="mdi:linkedin" />
         </div>
+        <DownloadButton />
       </div>
     </div>
   </div>
