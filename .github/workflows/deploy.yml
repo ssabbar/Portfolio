@@ -16,7 +16,7 @@ jobs:
           node-version: "20"
       - uses: oven-sh/setup-bun@v1
       - run: bun install
-      - run: bun run generate
+      - run: bun run build -- --preset=github_pages
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
