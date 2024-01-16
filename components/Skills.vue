@@ -7,7 +7,6 @@
         <SkillIcon fileName="nuxt_icon.png" text="NuxtJS" />
         <SkillIcon fileName="tailwind_icon.png" text="TailwindCSS" />
         <SkillIcon fileName="git_icon.png" text="Git" />
-        <SkillIcon fileName="git_icon.png" text="Git" />
       </div>
     </ContentSection>
   </div>
