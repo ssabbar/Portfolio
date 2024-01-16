@@ -11,7 +11,7 @@
         <div class="flex justify-center my-5">
           <img
             class="rounded-2xl h-64 align-middle"
-            src="~/assets/images/SalmaPhoto.jpg"
+            src="/images/SalmaPhoto.jpg"
           />
         </div>
         <div class="text-center text-xl">
